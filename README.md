@@ -5,7 +5,7 @@
   3. Run the following commands in your shell/console:</br>
 
   ```bash
-  git clone https://github.com/
+  git clone https://github.com/TSL534/Discord-Selfspammer
   ```
   Note: You can also download the files using other methods.
 
